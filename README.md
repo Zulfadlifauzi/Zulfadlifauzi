@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Zulfadlifauzi
-- 👀 I’m interested in python and php
-- 🌱 I’m currently learning nodejs, react native, firebase and javascript.
+- 🌱 I’m currently learning nodejs, react native, firebase,flutter,laravel and javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
